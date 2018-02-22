@@ -1,0 +1,145 @@
+20180218_22:52:44.644 - INFO - Identity created : c7
+20180218_22:53:08.293 - INFO - Identity created : c8
+20180218_23:30:39.405 - INFO - Identity created : c9
+20180218_23:31:13.004 - INFO - Identity created : c10
+20180218_23:43:54.970 - INFO - Identity SEARCHED : 1314
+20180218_23:43:55.070 - INFO - Identity SEARCHED : 1314
+20180218_23:44:10.204 - INFO - Identity SEARCHED : aaa
+20180218_23:44:10.253 - INFO - Identity deleted and the id is : aaa
+20180218_23:44:58.328 - INFO - Identity SEARCHED : 1317
+20180218_23:44:58.367 - INFO - Identity updated (UID is) : 1317
+20180219_21:45:41.624 - ERROR - error while searching
+20180221_00:17:45.161 - INFO - authenticated successfully 
+20180221_00:18:02.362 - INFO - Identity SEARCHED : 1234
+20180221_00:18:10.426 - INFO - Identity SEARCHED : abc
+20180221_00:18:10.461 - INFO - Identity created : abc
+20180221_00:18:27.431 - INFO - Identity SEARCHED : abc
+20180221_00:18:27.494 - INFO - Identity updated (UID is) : abc
+20180221_00:18:42.898 - INFO - Identity SEARCHED : aaa
+20180221_00:18:53.103 - INFO - Identity SEARCHED : abc
+20180221_00:18:53.119 - INFO - Identity SEARCHED : abc
+20180221_00:19:02.192 - INFO - Identity SEARCHED : abc
+20180221_00:19:02.208 - INFO - Identity SEARCHED : abc
+20180221_00:19:07.799 - INFO - Identity SEARCHED : abc
+20180221_00:19:07.815 - INFO - Identity SEARCHED : abc
+20180221_00:19:25.088 - INFO - Identity SEARCHED : null
+20180221_00:19:47.047 - INFO - Identity SEARCHED : abc
+20180221_00:19:47.086 - INFO - Identity deleted and the id is : abc
+20180221_00:20:10.311 - INFO - Identity SEARCHED : 99
+20180221_00:25:46.274 - INFO - authenticated successfully 
+20180221_00:25:52.720 - INFO - Identity SEARCHED : abc
+20180221_00:26:01.929 - INFO - Identity SEARCHED : 1314
+20180221_00:26:01.948 - INFO - Identity SEARCHED : 1314
+20180221_00:26:09.095 - INFO - Identity SEARCHED : c6
+20180221_00:26:09.112 - INFO - Identity SEARCHED : c6
+20180221_00:26:16.696 - INFO - Identity SEARCHED : m1
+20180221_00:26:16.732 - INFO - Identity created : m1
+20180221_00:26:26.201 - INFO - Identity SEARCHED : m1
+20180221_00:26:26.222 - INFO - Identity deleted and the id is : m1
+20180221_18:13:47.702 - INFO - authenticated successfully 
+20180221_19:28:52.122 - INFO - Login Initiated
+20180221_19:28:52.986 - INFO - Connection Established
+20180221_19:28:53.221 - INFO - Authentication Successful 
+20180221_19:28:53.249 - INFO - Main Menu
+20180221_19:29:03.148 - INFO - Identity SEARCHED : null
+20180221_19:29:03.190 - INFO - Identity SEARCHED : null
+20180221_20:09:31.064 - INFO - Login Initiated
+20180221_20:09:31.887 - INFO - Connection Established
+20180221_20:09:32.123 - INFO - Authentication failed 
+20180221_20:09:53.556 - INFO - Login Initiated
+20180221_20:09:53.559 - INFO - Connection Established
+20180221_20:09:53.560 - INFO - Authentication failed 
+20180221_20:10:08.229 - INFO - Login Initiated
+20180221_20:10:08.231 - INFO - Connection Established
+20180221_20:10:08.231 - INFO - Authentication failed 
+20180221_20:10:26.953 - INFO - Login Initiated
+20180221_20:10:26.956 - INFO - Connection Established
+20180221_20:10:26.957 - INFO - Authentication Successful 
+20180221_20:10:26.978 - INFO - Main Menu
+20180221_21:38:03.484 - INFO - Connection Established
+20180221_21:38:04.123 - INFO - Authentication failed 
+20180221_21:38:12.995 - INFO - Login Initiated
+20180221_21:38:13.003 - INFO - Connection Established
+20180221_21:38:13.007 - INFO - Authentication Successful 
+20180221_21:38:13.071 - INFO - Enter : Main Menu
+20180221_21:40:32.143 - INFO - Identity created : s3
+20180221_21:40:57.022 - INFO - Identity updated (UID is) : 1319
+20180221_21:41:21.956 - INFO - Identity updated (UID is) : 1319
+20180221_22:03:05.343 - INFO - Connection Established
+20180221_22:03:05.584 - INFO - Authentication Successful 
+20180221_22:03:05.611 - INFO - Enter : Main Menu
+20180221_22:06:39.846 - INFO - Identity updated (UID is) : 1319
+20180221_22:11:38.511 - INFO - Login Initiated
+20180221_22:11:39.553 - INFO - Connection Established
+20180221_22:11:39.922 - INFO - Authentication Successful 
+20180221_22:11:39.968 - INFO - Enter : Main Menu
+20180221_22:12:02.481 - INFO - Identity updated (UID is) : 1319
+20180221_23:02:31.440 - INFO - Login Initiated
+20180221_23:02:32.427 - INFO - Connection Established
+20180221_23:02:32.647 - INFO - Authentication failed 
+20180222_10:35:47.128 - INFO - Login Initiated
+20180222_10:35:48.444 - INFO - Connection Established
+20180222_10:35:48.781 - INFO - Authentication failed 
+20180222_10:37:13.477 - INFO - Login Initiated
+20180222_10:37:13.480 - INFO - Connection Established
+20180222_10:37:13.481 - INFO - Authentication Successful 
+20180222_10:37:13.511 - INFO - Enter : Main Menu
+20180222_10:40:59.110 - INFO - Identity created : 123456
+20180222_10:47:22.078 - INFO - Login Initiated
+20180222_10:47:22.926 - INFO - Connection Established
+20180222_10:47:23.138 - INFO - Authentication Successful 
+20180222_10:47:23.170 - INFO - Enter : Main Menu
+20180222_10:47:56.420 - INFO - Identity updated (UID is) : check
+20180222_10:48:28.554 - INFO - Identity deleted and the id is : check1
+20180222_10:48:35.245 - INFO - Identity deleted and the id is : check2
+20180222_10:49:46.056 - INFO - Login Initiated
+20180222_10:49:46.883 - INFO - Connection Established
+20180222_10:49:47.115 - INFO - Authentication Successful 
+20180222_10:49:47.133 - INFO - Enter : Main Menu
+20180222_10:50:20.944 - INFO - Identity created : 111
+20180222_10:50:38.507 - INFO - Identity created : 222
+20180222_10:51:01.394 - INFO - Identity created : 333
+20180222_10:51:29.994 - INFO - Identity created : aaa
+20180222_10:51:54.799 - INFO - Identity created : abc
+20180222_10:52:26.161 - INFO - Identity created : 1a
+20180222_10:54:01.288 - INFO - Identity created : 2b
+20180222_11:00:53.921 - INFO - Identity updated (UID is) : abc
+20180222_11:02:32.689 - INFO - Login Initiated
+20180222_11:02:33.801 - INFO - Connection Established
+20180222_11:02:34.020 - INFO - Authentication Successful 
+20180222_11:02:34.037 - INFO - Enter : Main Menu
+20180222_11:04:06.016 - INFO - Identity updated (UID is) : 111
+20180222_11:11:34.414 - INFO - Identity deleted and the id is : aaa
+20180222_11:11:44.229 - INFO - Identity deleted and the id is : 1a
+20180222_11:11:53.633 - INFO - Identity deleted and the id is : 2b
+20180222_11:12:35.909 - INFO - Identity updated (UID is) : 333
+20180222_11:16:06.069 - INFO - Identity updated (UID is) : abc
+20180222_11:18:40.539 - INFO - Identity updated (UID is) : abc
+20180222_11:25:08.523 - INFO - Identity deleted and the id is : 222
+20180222_11:28:18.928 - INFO - Identity created : 222
+20180222_11:34:32.304 - INFO - Identity deleted and the id is : 222
+20180222_11:47:24.596 - INFO - Login Initiated
+20180222_11:47:25.568 - INFO - Connection Established
+20180222_11:47:25.788 - INFO - Authentication Successful 
+20180222_11:47:25.803 - INFO - Enter : Main Menu
+20180222_11:49:12.108 - INFO - Login Initiated
+20180222_11:49:13.009 - INFO - Connection Established
+20180222_11:49:13.245 - INFO - Authentication Successful 
+20180222_11:49:13.257 - INFO - Enter : Main Menu
+20180222_14:29:27.695 - INFO - Login Initiated
+20180222_14:29:28.527 - INFO - Connection Established
+20180222_14:29:28.745 - INFO - Authentication Successful 
+20180222_14:29:28.777 - INFO - Enter : Main Menu
+20180222_14:31:40.225 - INFO - Login Initiated
+20180222_14:31:41.101 - INFO - Connection Established
+20180222_14:31:41.334 - INFO - Authentication Successful 
+20180222_14:31:41.354 - INFO - Enter : Main Menu
+20180222_14:33:24.085 - INFO - Login Initiated
+20180222_14:33:24.939 - INFO - Connection Established
+20180222_14:33:25.147 - INFO - Authentication Successful 
+20180222_14:33:25.178 - INFO - Enter : Main Menu
+20180222_17:34:12.617 - INFO - Login Initiated
+20180222_17:34:13.466 - INFO - Connection Established
+20180222_17:34:13.688 - INFO - Authentication Successful 
+20180222_17:34:13.705 - INFO - Enter : Main Menu
+20180222_17:34:33.947 - INFO - Identity updated (UID is) : 111
